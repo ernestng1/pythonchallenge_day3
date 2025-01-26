@@ -1,9 +1,8 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 3 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 3 challenge, I created a Treasure Island Interactive Storybook that allows users to not only read a story, but also decide the direction and outcome of a story. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
-  <li>input function</li>
+  <li>conditional statements(if, elif and else)</li>
+  <li>nested conditional statements</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
